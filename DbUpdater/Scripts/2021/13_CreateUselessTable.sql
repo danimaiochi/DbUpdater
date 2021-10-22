@@ -1,0 +1,1 @@
+create table useless (id integer not null primary key, name varchar(30));

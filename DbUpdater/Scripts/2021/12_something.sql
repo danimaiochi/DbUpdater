@@ -1,0 +1,1 @@
+insert into agomosettings values ('2021.12', '2021.12', '2021.12', '2021.12');

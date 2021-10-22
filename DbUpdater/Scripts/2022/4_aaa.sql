@@ -1,0 +1,1 @@
+insert into useless values (1, 'value');
